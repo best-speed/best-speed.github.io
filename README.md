@@ -85,4 +85,7 @@ enable-ga="false"
  .markdown-body{
   direction:rtl;
  }
+ body,.markdown-body {
+    font-family: sans-serif;
+}
 </style>
