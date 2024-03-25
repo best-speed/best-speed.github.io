@@ -47,7 +47,7 @@ https://t.me/best_speedvpn
 خرید اشتراک وی پی ان برای تمامی سیستم عامل ها
 
 <!--Use the below code snippet to provide real time updates to the live chat plugin without the need of copying and paste each time to your website when changes are made via PBX-->
-<call-us-selector phonesystem-url="https://1685.3cx.cloud" party="bspeedclick"></call-us-selector>
+<call-us-selector phonesystem-url="https://1685.3cx.cloud" party="bsgitgit"></call-us-selector>
  
 <!--Incase you don't want real time updates to the live chat plugin when options are changed, use the below code snippet. Please note that each time you change the settings you will need to copy and paste the snippet code to your website--> 
 <!--<call-us 
@@ -56,7 +56,7 @@ style="position:fixed;font-size:16px;line-height:17px;z-index: 99999;--call-us-m
 id="wp-live-chat-by-3CX" 
 minimized="true" 
 animation-style="slideup" 
-party="bspeedclick" 
+party="bsgitgit" 
 minimized-style="bubbleright" 
 allow-call="false" 
 allow-video="false" 
