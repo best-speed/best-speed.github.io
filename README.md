@@ -79,3 +79,8 @@ enable-direct-call="false"
 enable-ga="false" 
 ></call-us>--> 
 <script defer src="https://downloads-global.3cx.com/downloads/livechatandtalk/v1/callus.js" id="tcx-callus-js" charset="utf-8"></script>
+<style>
+ .markdown-body{
+  direction:rtl;
+ }
+</style>
