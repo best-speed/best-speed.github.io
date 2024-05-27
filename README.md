@@ -27,4 +27,4 @@ https://best-speed.com
 خرید vpn برای ترید و آیپی ثابت
 
 <style>p{text-align:right;}h1{text-align:center}</style>
-<link rel="stylesheet" href="1000gem.org/themes/default/fonts/font.css" media="all" onload="this.media='all'">
+<link rel="stylesheet" href="https://1000gem.org/themes/default/fonts/font.css" media="all" onload="this.media='all'">
