@@ -26,4 +26,4 @@ https://best-speed.com
 
 خرید vpn برای ترید و آیپی ثابت
 
-<style>h1,p{text-align:right;}</style>
+<style>p{text-align:right;}h1{text-align:center}</style>
