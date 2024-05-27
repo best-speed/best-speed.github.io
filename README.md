@@ -1,6 +1,6 @@
 [![تلگرام بست اسپید وی پی ان](https://biaupload.com/do.php?imgf=org-40fcaad7249c1.png)](https://t.me/best_speedvpn)
 
-[![پشتیبانی آنلاین](https://biaupload.com/do.php?imgf=org-3fb16bd745431.png)](https://1556.3cx.cloud/callus/#bestspeedvpn)
+[![پشتیبانی آنلاین](https://biaupload.com/do.php?imgf=org-66a3a33246ca3.png)](https://1556.3cx.cloud/callus/#bestspeedvpn)
 
 [![وبسایت بست اسپید](https://biaupload.com/do.php?imgf=org-ce42ef208ec02.png)](https://best-speed.com)
 
