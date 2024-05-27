@@ -1,16 +1,14 @@
-# پشتیبانی آنلاین خرید Speed VPN
+[![تلگرام بست اسپید وی پی ان](https://biaupload.com/do.php?imgf=org-dc06b03bc4523.png)](https://t.me/best_speedvpn)
 
-<p style="color:red">جهت خرید از طریق حباب چت آنلاین اقدام کنید. همچنین از طریق کانال تلگرام نیز می‌توانید با ما در ارتباط باشید.</p>
+[![پشتیبانی آنلاین](https://biaupload.com/do.php?imgf=org-3fb16bd745431.png)](https://1556.3cx.cloud/callus/#bestspeedvpn)
 
+[![وبسایت بست اسپید](https://biaupload.com/do.php?imgf=org-582273872f5e2.png)](https://best-speed.com)
+
+# جهت خرید از لینک کانال تلگرام در بالا استفاده کنید.
 
 **وب سایت اصلی اسپید وی پی ان:**
 
 https://best-speed.com
-
-
-**کانال تلگرام برای خرید:**
-
-https://t.me/best_speedvpn
 
 برخی از مزایایی که خرید اشتراک بست اسپید وی پی ان Speed VPN را نسبت به دیگر رقبا متمایز میکند. اسپید وی پی ان در ایران سازگار با همه اوپراتورها
 
@@ -45,47 +43,3 @@ https://t.me/best_speedvpn
 سازگار با تمامی سیستم‌ها
 
 خرید اشتراک وی پی ان برای تمامی سیستم عامل ها
-
-<!--Use the below code snippet to provide real time updates to the live chat plugin without the need of copying and paste each time to your website when changes are made via PBX-->
-<call-us-selector phonesystem-url="https://1685.3cx.cloud" party="bsgitgit"></call-us-selector>
- 
-<!--Incase you don't want real time updates to the live chat plugin when options are changed, use the below code snippet. Please note that each time you change the settings you will need to copy and paste the snippet code to your website--> 
-<!--<call-us 
-phonesystem-url="https://1685.3cx.cloud" 
-style="position:fixed;font-size:16px;line-height:17px;z-index: 99999;--call-us-main-accent-color:#D63004;--call-us-main-background-color:#FFFFFF;--call-us-plate-background-color:#D97E18;--call-us-plate-font-color:#E6E6E6;--call-us-main-font-color:#292929;--call-us-agent-bubble-color:#29292910;right: 20px; bottom: 20px;" 
-id="wp-live-chat-by-3CX" 
-minimized="true" 
-animation-style="slideup" 
-party="bsgitgit" 
-minimized-style="bubbleright" 
-allow-call="false" 
-allow-video="false" 
-allow-soundnotifications="true" 
-enable-mute="true" 
-enable-onmobile="true" 
-offline-enabled="true" 
-enable="true" 
-ignore-queueownership="false" 
-authentication="none" 
-show-operator-actual-name="false" 
-aknowledge-received="true" 
-gdpr-enabled="false" 
-message-userinfo-format="both" 
-message-dateformat="both" 
-lang="browser" 
-button-icon-type="bubble" 
-greeting-visibility="none" 
-greeting-offline-visibility="none" 
-chat-delay="2000" 
-enable-direct-call="false" 
-enable-ga="false" 
-></call-us>--> 
-<script defer src="https://downloads-global.3cx.com/downloads/livechatandtalk/v1/callus.js" id="tcx-callus-js" charset="utf-8"></script>
-<style>
- .markdown-body{
-  direction:rtl;
- }
- body,.markdown-body {
-    font-family: sans-serif;
-}
-</style>
