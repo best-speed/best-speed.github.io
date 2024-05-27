@@ -1,8 +1,8 @@
-[![تلگرام بست اسپید وی پی ان](https://biaupload.com/do.php?imgf=org-dc06b03bc4523.png)](https://t.me/best_speedvpn)
+[![تلگرام بست اسپید وی پی ان](https://biaupload.com/do.php?imgf=org-40fcaad7249c1.png)](https://t.me/best_speedvpn)
 
 [![پشتیبانی آنلاین](https://biaupload.com/do.php?imgf=org-3fb16bd745431.png)](https://1556.3cx.cloud/callus/#bestspeedvpn)
 
-[![وبسایت بست اسپید](https://biaupload.com/do.php?imgf=org-582273872f5e2.png)](https://best-speed.com)
+[![وبسایت بست اسپید](https://biaupload.com/do.php?imgf=org-66a3a33246ca3.png)](https://best-speed.com)
 
 # جهت خرید از لینک کانال تلگرام در بالا استفاده کنید.
 
