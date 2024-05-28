@@ -12,7 +12,7 @@ https://best-speed.com
 
 برخی از مزایایی که خرید اشتراک بست اسپید وی پی ان Speed VPN را نسبت به دیگر رقبا متمایز میکند. اسپید وی پی ان در ایران سازگار با همه اوپراتورها
 <div class="info">
-[![پشتیبانی آنلاین](https://biaupload.com/do.php?imgf=org-66a3a33246ca3.png)](#bestspeedvpn)
+[[https://biaupload.com/do.php?imgf=org-66a3a33246ca3.png]]
 [![پشتیبانی آنلاین](https://biaupload.com/do.php?imgf=org-5109a194320f2.png)](#bestspeedvpn)
 </div>
 <style>p{text-align:right;}h1{text-align:center}</style>
