@@ -11,20 +11,9 @@
 https://best-speed.com
 
 برخی از مزایایی که خرید اشتراک بست اسپید وی پی ان Speed VPN را نسبت به دیگر رقبا متمایز میکند. اسپید وی پی ان در ایران سازگار با همه اوپراتورها
-
-خرید اشتراک وی پی ان برای تمامی سیستم عامل ها
-
-اشتراک وی پی ان توربو و امن
-
-خرید آسان با تضمین بازگشت وجه تا ۴۸ ساعت
-
-تیم پشتیبانی سایت ۷ روز هفته حتی روزهای تعطیل درکنار شماست
-
-پینگ پایین بدون قطعی
-
-پرسرعت ترین وی پی ان در ایران بدون محدودیت حجمی
-
-خرید vpn برای ترید و آیپی ثابت
-
+<div class="info">
+[![پشتیبانی آنلاین](https://biaupload.com/do.php?imgf=org-5109a194320f2.png)]
+[![پشتیبانی آنلاین](https://biaupload.com/do.php?imgf=org-6fb060fd04b11.png)]
+</div>
 <style>p{text-align:right;}h1{text-align:center}</style>
 <link rel="stylesheet" href="https://1000gem.org/themes/default/fonts/font.css" media="all" onload="this.media='all'">
