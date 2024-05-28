@@ -15,5 +15,4 @@ https://best-speed.com
   [![تلگرام بست اسپید وی پی ان](https://biaupload.com/do.php?imgf=org-5109a194320f2.png)](#)
   [![تلگرام بست اسپید وی پی ان](https://biaupload.com/do.php?imgf=org-6fb060fd04b11.png)](#)
 
-<style>p{text-align:right;}h1{text-align:center;text-align: center;}</style>
-<link rel="stylesheet" href="https://1000gem.org/themes/default/fonts/font.css" media="all" onload="this.media='all'">
+<style>p{text-align:right;text-align: center;}h1{text-align:center;text-align: center;}</style>
